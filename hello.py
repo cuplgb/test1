@@ -1,3 +1,3 @@
 #!/usr/bin/env python 
 # -*- coding:utf-8 -*-
-print("hello world!")
+"""This is Python file for github test"""
